@@ -29,5 +29,5 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: my-artifact
-        path: ./test.zip
+        path: ./test.py
         
