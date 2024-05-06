@@ -42,7 +42,7 @@ obj = AS()
 obj.make_as(1,2,3,4,5,6,7,8,9)
 obj.show_as()
 obj.rev_as()
-print()
+print("New line")
 obj.show_as()
 
 obj.sort_as()
