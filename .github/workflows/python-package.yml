@@ -24,6 +24,7 @@ jobs:
         python test.py
     
     # Add steps to run tests or build here
+    #test
     
     - name: Create artifact
       uses: actions/upload-artifact@v2
